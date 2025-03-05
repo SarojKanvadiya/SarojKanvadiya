@@ -1,14 +1,14 @@
 <h1>Hello👋, I'm Saroj Kanvadiya</h1>
 <p><i>Accomplished front-end developer specializing in React.js with adeptness at integrating front-end components with server-side APIs. Proficient in responsive design, and performance optimization. Quick learner with a commitment to mastering new tech stacks promptly.</i></p>
 
-<p><i>More About Masai School:</i> <a herf='https://www.masaischool.com/' target='_blank'>Click Here</a></p>
+<p><i>More About Masai School:</i> <a herf="https://www.masaischool.com/" target="_blank" rel="noreferrer">Click Here</a></p>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 🌱 I’m currently learning **Frontend Developer(React)**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://sarojkanvadiya.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, React, Readux, Chakra UI, GitHub**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, React, Redux, Chakra UI, GitHub**
 
 - 📫 How to reach me **sarojkanvadiya@gmail.com**
 
